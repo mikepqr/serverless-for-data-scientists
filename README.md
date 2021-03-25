@@ -2,7 +2,8 @@
 
 Code and notebooks for a talk given at PyBay, 2018-08-19.
 
- - [The talk (slides and words)](https://mike.place/talks/serverless/)
+ - [Slides and words](https://mike.place/talks/serverless/)
+ - [Video](https://www.youtube.com/watch?v=9PR2-ogB5qM)
 
 ## Contents
 
@@ -10,10 +11,6 @@ Code and notebooks for a talk given at PyBay, 2018-08-19.
  2. [Pywren demo](pywren/)
  3. [Hyperparameter optimization with pywren](hyperparameters/)
  4. [Model deployment on AWS Lambda with zappa](modelserver/)
-
-## Coming soon
-
- - A link to the talk recording
 
 ## Projects and resources mentioned in the talk
 
